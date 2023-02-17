@@ -13,9 +13,13 @@
 <img alt="sass" src="https://img.shields.io/badge/sass-CF649A.svg?&style=for-the-badge&logo=sass&logoColor=fff" />&nbsp;
 
 ### Контакты:
-<img alt="telegram" src="https://img.shields.io/badge/telegram-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=black%22" />&nbsp;
-<img alt="vk" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" />&nbsp;
 
+<a href="https://t.me/gleb_kivilevich">
+  <img alt="telegram" src="https://img.shields.io/badge/telegram-4680C2.svg?&style=for-the-badge&logo=telegram&logoColor=black%22"/>
+</a>
+<a href="https://vk.com/gleb.kivilevich">
+  <img alt="vk" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+</a>
 
 <!-- <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp; -->
 <!-- <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp; -->
